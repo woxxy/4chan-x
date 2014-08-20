@@ -14,8 +14,8 @@
   "http": true,
   "https": true,
   "software": "foolfuuka",
-  "boards": ["u"],
-  "files": ["u"]
+  "boards": ["h", "u"],
+  "files": ["h", "u"]
 }, {
   "uid": 3,
   "name": "4plebs Archive",
